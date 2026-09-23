@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Chill chill đổ số
+// @name         Chill chill đổ số 1.0
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Tà tà về số
