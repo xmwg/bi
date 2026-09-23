@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         AutoBI 16.4
+// @name         Chill chill đổ số
 // @namespace    http://tampermonkey.net/
-// @version      16.4
-// @description  Tool báo cáo tự động cho quản lý MWG.
-// @author       42060
+// @version      1.0
+// @description  Tà tà về số
+// @author       xbi
 // @match        https://crm.thegioididong.com/*
 // @match        https://baocao.dienmayxanh.com/*
 // @include      https://baocao.dienmayxanh.com/*
